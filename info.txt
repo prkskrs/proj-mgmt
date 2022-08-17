@@ -1,0 +1,2 @@
+ npm i cloudinary bcryptjs cookie-parser dotenv express express-fileupload mongoose jsonwebtoken nodemailer stripe razorpay validator morgan
+ 
